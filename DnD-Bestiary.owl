@@ -1,119 +1,144 @@
 <?xml version="1.0"?>
-<Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/pia66/ontologies/2024/3/untitled-ontology-2"
+<rdf:RDF xmlns="http://www.semanticweb.org/pia66/ontologies/2024/3/untitled-ontology-4/"
+     xml:base="http://www.semanticweb.org/pia66/ontologies/2024/3/untitled-ontology-4/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/pia66/ontologies/2024/3/untitled-ontology-2">
-    <Prefix name="" IRI="http://www.semanticweb.org/pia66/ontologies/2024/3/untitled-ontology-2/"/>
-    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
-    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
-    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
-    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
-    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Declaration>
-        <Class IRI="#Aberration"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Beast"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Celestial"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Construct"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Creature"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Dragon"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Elemental"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Fey"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Fiend"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Giant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Humanoid"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Monstrosity"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Ooze"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Plant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Undead"/>
-    </Declaration>
-    <SubClassOf>
-        <Class IRI="#Aberration"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Beast"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Celestial"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Construct"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Dragon"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Elemental"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Fey"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Fiend"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Giant"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Humanoid"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Monstrosity"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Ooze"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Plant"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Undead"/>
-        <Class IRI="#Creature"/>
-    </SubClassOf>
-</Ontology>
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology">
+        <owl:versionIRI rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology/0.0.1"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Aberration -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Beast -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Beast">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Celestial -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Construct -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Construct">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Creature -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Dragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Dragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Elemental -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Fey -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Fey">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Fiend -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Giant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Giant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Humanoid -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Humanoid">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Ooze -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Ooze">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Plant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Plant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Undead -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Undead">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+</rdf:RDF>
 
 
 
