@@ -31,9 +31,209 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultBlackDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultBlackDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Black"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultBlueDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultBlueDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Blue"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultBrassDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultBrassDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Brass"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultBronzeDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultBronzeDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Bronze"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultCopperDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultCopperDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Copper"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultGoldDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultGoldDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Gold"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultGreenDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultGreenDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Green"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultRedDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultRedDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Red"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultSilverDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultSilverDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Silver"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultWhiteDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultWhiteDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#White"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AirElemental -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AirElemental">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Alignment -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientBlackDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientBlackDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Black"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientBlueDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientBlueDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Blue"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientBrassDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientBrassDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Brass"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientBronzeDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientBronzeDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Bronze"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientCopperDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientCopperDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Copper"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientGoldDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientGoldDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Gold"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientGreenDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientGreenDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Green"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientRedDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientRedDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Red"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientSilverDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientSilverDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Silver"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientWhiteDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientWhiteDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#White"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Azer -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Azer">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Balor -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Balor">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BarbedDevil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BarbedDevil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BeardedDevil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BeardedDevil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
     
 
 
@@ -41,6 +241,86 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Beast">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Black -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Black">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BlackDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BlackDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Black"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BlinkDog -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BlinkDog">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fey"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Blue -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Blue">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BlueDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BlueDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Blue"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BoneDevil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BoneDevil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Brass -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Brass">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BrassDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BrassDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Brass"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Bronze -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Bronze">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BronzeDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BronzeDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Bronze"/>
     </owl:Class>
     
 
@@ -53,6 +333,30 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ChainDevil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChainDevil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#CloudGiant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#CloudGiant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Dragon"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Construct -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Construct">
@@ -61,9 +365,57 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Copper -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Copper">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#CopperDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#CopperDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Copper"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Creature -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Cyclops -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Cyclops">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Demon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Demon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Devil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Devil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Djinni -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Djinni">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
     
 
 
@@ -75,10 +427,82 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#DragonTurtle -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#DragonTurtle">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Dragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Dretch -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Dretch">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Dryad -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Dryad">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fey"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#DustDevil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#DustDevil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#DustMephit -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#DustMephit">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#EarthElemental -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#EarthElemental">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Efreeti -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Efreeti">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Elemental -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Erinyes -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Erinyes">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Ettin -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Ettin">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
     </owl:Class>
     
 
@@ -99,10 +523,122 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#FireElemental -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#FireElemental">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#FireGiant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#FireGiant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#FrostGiant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#FrostGiant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Gargoyle -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Gargoyle">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Giant -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Giant">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Glabrezu -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Glabrezu">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Gold -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Gold">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GoldDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GoldDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Gold"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Green -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Green">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GreenDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GreenDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Green"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GreenHag -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GreenHag">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fey"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#HellHound -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#HellHound">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Hezrou -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Hezrou">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#HillGiant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#HillGiant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#HornedDevil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#HornedDevil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
     </owl:Class>
     
 
@@ -115,10 +651,122 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#IceDevil -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#IceDevil">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#IceMaphit -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#IceMaphit">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Imp -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Imp">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Incubus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Incubus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#InvisibleStalker -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#InvisibleStalker">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Lemure -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Lemure">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#MagmaMephit -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#MagmaMephit">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Magmin -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Magmin">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Marilith -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Marilith">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Nalfeshnee -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Nalfeshnee">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#NightHag -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NightHag">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Nightmare -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Nightmare">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Ogre -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Ogre">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Oni -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Oni">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
     </owl:Class>
     
 
@@ -131,6 +779,22 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Other -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Other">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#PitFiend -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#PitFiend">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Plant -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Plant">
@@ -139,10 +803,266 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Pseudodragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Pseudodragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Dragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Quasit -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Quasit">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Rakshasa -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Rakshasa">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Red -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Red">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#RedDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#RedDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Red"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Salamander -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Salamander">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Satyr -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Satyr">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fey"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#SeaHag -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SeaHag">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fey"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Silver -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Silver">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#SilverDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SilverDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Silver"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Sprite -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Sprite">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fey"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#SteamMephit -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SteamMephit">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#StoneGiant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#StoneGiant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#StormGiant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#StormGiant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Succubus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Succubus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Troll -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Troll">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Undead -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Undead">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Vrock -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Vrock">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#WaterElemental -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#WaterElemental">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#White -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#White">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#WhiteDragonWyrmling -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#WhiteDragonWyrmling">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#White"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Wyvern -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Wyvern">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Dragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Xorn -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Xorn">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungBlackDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungBlackDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Black"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungBlueDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungBlueDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Blue"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungBrassDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungBrassDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Brass"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungBronzeDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungBronzeDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Bronze"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungCopperDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungCopperDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Copper"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungGoldDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungGoldDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Gold"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungGreenDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungGreenDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Green"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungRedDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungRedDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Red"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungSilverDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungSilverDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Silver"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#YoungWhiteDragon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#YoungWhiteDragon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#White"/>
     </owl:Class>
 </rdf:RDF>
 
