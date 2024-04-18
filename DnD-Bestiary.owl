@@ -31,6 +31,12 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Alignment -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Beast -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Beast">
