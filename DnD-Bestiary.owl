@@ -31,6 +31,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Aboleth -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Aboleth">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AdultBlackDragon -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AdultBlackDragon">
@@ -125,6 +133,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Allosaurus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Allosaurus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AncientBlackDragon -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AncientBlackDragon">
@@ -205,10 +221,58 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AnimatedArmor -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AnimatedArmor">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Ankylosaurus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Ankylosaurus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Ape -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Ape">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#AxeBeak -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#AxeBeak">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Azer -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Azer">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Baboon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Baboon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Badger -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Badger">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -225,6 +289,22 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BarbedDevil">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Bat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Bat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Bats -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Bats">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
     </owl:Class>
     
 
@@ -253,6 +333,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BlackBear -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BlackBear">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BlackDragonWyrmling -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BlackDragonWyrmling">
@@ -269,6 +357,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BloodHawk -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BloodHawk">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Blue -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Blue">
@@ -281,6 +377,14 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BlueDragonWyrmling">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Blue"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Boar -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Boar">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -325,6 +429,30 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#BrownBear -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#BrownBear">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Camel -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Camel">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Cat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Cat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Celestial -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial">
@@ -341,6 +469,30 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Chuul -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Chuul">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ClayGolem -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ClayGolem">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Cloaker -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Cloaker">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#CloudGiant -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#CloudGiant">
@@ -353,6 +505,14 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ColorDragon">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Dragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ConstrictorSnake -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ConstrictorSnake">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -381,9 +541,33 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Couatl -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Couatl">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Crab -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Crab">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Creature -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Crocodile -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Crocodile">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
     
 
 
@@ -391,6 +575,14 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Cyclops">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Deer -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Deer">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -403,6 +595,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Deva -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Deva">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Devil -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Devil">
@@ -411,10 +611,34 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#DireWolf -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#DireWolf">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#DiseasedGaintRat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#DiseasedGaintRat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Djinni -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Djinni">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#DraftHorse -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#DraftHorse">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -467,6 +691,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Eagle -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Eagle">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#EarthElemental -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#EarthElemental">
@@ -487,6 +719,22 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Elephant -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Elephant">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Elk -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Elk">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -539,6 +787,38 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#FleshGolem -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#FleshGolem">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#FlyingSnake -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#FlyingSnake">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#FlyingSword -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#FlyingSword">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Frog -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Frog">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#FrostGiant -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#FrostGiant">
@@ -563,10 +843,250 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantApe -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantApe">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantBadger -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantBadger">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantBat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantBat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantBoar -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantBoar">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantCentipede -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantCentipede">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantConstrictorSnake -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantConstrictorSnake">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantCrab -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantCrab">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantCrocodile -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantCrocodile">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantEAgle -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantEAgle">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantElk -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantElk">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantFireBeetle -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantFireBeetle">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantFrog -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantFrog">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantGoat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantGoat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantHyena -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantHyena">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantLizard -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantLizard">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantOctupus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantOctupus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantOwl -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantOwl">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantPoisonousSnake -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantPoisonousSnake">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantRat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantRat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantScorpion -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantScorpion">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantSeaHorse -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantSeaHorse">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantShark -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantShark">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantSpider -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantSpider">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantToad -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantToad">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantVulture -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantVulture">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantWasp -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantWasp">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantWeasel -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantWeasel">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GiantWolfSpider -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GiantWolfSpider">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#GibberingMouther -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#GibberingMouther">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Glabrezu -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Glabrezu">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Goat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Goat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -611,6 +1131,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Hawk -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Hawk">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#HellHound -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#HellHound">
@@ -635,6 +1163,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Homunculus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Homunculus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#HornedDevil -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#HornedDevil">
@@ -647,6 +1183,22 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Humanoid">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#HunterShark -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#HunterShark">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Hyena -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Hyena">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -683,6 +1235,46 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Insects -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Insects">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#InsectsBeetles -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#InsectsBeetles">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#InsectsCentipedes -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#InsectsCentipedes">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#InsectsSpiders -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#InsectsSpiders">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#InsectsWasps -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#InsectsWasps">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#InvisibleStalker -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#InvisibleStalker">
@@ -691,10 +1283,50 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#IronGolem -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#IronGolem">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Jackal -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Jackal">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#KillerWhale -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#KillerWhale">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Lemure -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Lemure">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Lion -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Lion">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Lizard -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Lizard">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -715,6 +1347,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Mammoth -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Mammoth">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Marilith -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Marilith">
@@ -723,10 +1363,26 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Mastiff -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Mastiff">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Mule -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Mule">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -751,6 +1407,22 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Nightmare">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Nothic -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Nothic">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Octopus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Octopus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -787,10 +1459,50 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Otyugh -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Otyugh">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Owl -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Owl">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Panther -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Panther">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Pegasus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Pegasus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#PitFiend -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#PitFiend">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Devil"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Planetar -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Planetar">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial"/>
     </owl:Class>
     
 
@@ -803,10 +1515,58 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Plesiosaurus -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Plesiosaurus">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#PoisonousSnake -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#PoisonousSnake">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#PoisonousSnakes -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#PoisonousSnakes">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#PolarBear -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#PolarBear">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Pony -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Pony">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Pseudodragon -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Pseudodragon">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Dragon"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Pteranodon -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Pteranodon">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -819,10 +1579,58 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Quipper -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Quipper">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Quippers -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Quippers">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Rakshasa -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Rakshasa">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Rat -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Rat">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Rats -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Rats">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Raven -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Raven">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Ravens -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Ravens">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf"/>
     </owl:Class>
     
 
@@ -843,6 +1651,46 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ReefShark -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ReefShark">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Rhinoceros -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Rhinoceros">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#RidingHorse -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#RidingHorse">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#RugOfSmothering -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#RugOfSmothering">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#SaberToothedTiger -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SaberToothedTiger">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Salamander -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Salamander">
@@ -859,10 +1707,34 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Scorpion -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Scorpion">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#SeaHag -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SeaHag">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fey"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#SeaHorse -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SeaHorse">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ShieldGuardian -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ShieldGuardian">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
     </owl:Class>
     
 
@@ -879,6 +1751,30 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SilverDragonWyrmling">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Silver"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Solar -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Solar">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Spectator -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Spectator">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Aberration"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Spider -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Spider">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -907,10 +1803,26 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#StoneGolem -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#StoneGolem">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Construct"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#StormGiant -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#StormGiant">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Strige -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Strige">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -923,10 +1835,42 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#SwarmOf">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Tiger -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Tiger">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Triceraptors -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Triceraptors">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Troll -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Troll">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#TyrannosaurusRex -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#TyrannosaurusRex">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -939,6 +1883,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Unicorn -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Unicorn">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Celestial"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Vrock -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Vrock">
@@ -947,10 +1899,34 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Vulture -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Vulture">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Warhorse -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Warhorse">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#WaterElemental -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#WaterElemental">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Elemental"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Weasel -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Weasel">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
@@ -967,6 +1943,14 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#WhiteDragonWyrmling">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#White"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Wolf -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Wolf">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
