@@ -65,6 +65,7 @@
 
     <owl:DatatypeProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasCharisma">
         <rdfs:subPropertyOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#stats"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
     </owl:DatatypeProperty>
     
 
@@ -73,6 +74,7 @@
 
     <owl:DatatypeProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasConstitution">
         <rdfs:subPropertyOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#stats"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
     </owl:DatatypeProperty>
     
 
@@ -81,6 +83,7 @@
 
     <owl:DatatypeProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasDexterity">
         <rdfs:subPropertyOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#stats"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
     </owl:DatatypeProperty>
     
 
@@ -89,6 +92,7 @@
 
     <owl:DatatypeProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasIntelligence">
         <rdfs:subPropertyOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#stats"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
     </owl:DatatypeProperty>
     
 
@@ -97,6 +101,7 @@
 
     <owl:DatatypeProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasStrength">
         <rdfs:subPropertyOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#stats"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
     </owl:DatatypeProperty>
     
 
@@ -105,6 +110,7 @@
 
     <owl:DatatypeProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasWisdom">
         <rdfs:subPropertyOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#stats"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
     </owl:DatatypeProperty>
     
 
