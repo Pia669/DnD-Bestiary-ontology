@@ -223,7 +223,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -477,7 +476,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -517,7 +515,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -605,7 +602,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -637,7 +633,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -733,7 +728,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -1029,7 +1023,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -1123,7 +1116,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -1155,7 +1147,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -1265,6 +1256,7 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Doppelganger">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
     </owl:Class>
     
 
@@ -1339,7 +1331,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -1881,7 +1872,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -2041,7 +2031,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -2230,7 +2219,8 @@
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Incubus -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Incubus">
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
     </owl:Class>
     
 
@@ -2329,7 +2319,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -2457,7 +2446,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -2551,6 +2539,7 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Mimic">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Monstrosity"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
     </owl:Class>
     
 
@@ -2681,7 +2670,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -2897,7 +2885,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -2934,7 +2921,8 @@
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Quasit -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Quasit">
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Demon"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
     </owl:Class>
     
 
@@ -3137,7 +3125,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -3182,7 +3169,7 @@
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger">
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Humanoid"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
     </owl:Class>
     
 
@@ -3332,7 +3319,8 @@
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Succubus -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Succubus">
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Fiend"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Other"/>
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
     </owl:Class>
     
 
@@ -3383,7 +3371,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -3447,7 +3434,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
@@ -3540,6 +3526,7 @@
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Vampire -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Vampire">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Undead"/>
     </owl:Class>
     
@@ -3575,7 +3562,6 @@
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Merfolk"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Orc"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Sahuagin"/>
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Shapechanger"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Werebear"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wereboar"/>
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Wererat"/>
