@@ -10688,6 +10688,14 @@
     
 
 
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Stirge -->
+
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Stirge">
+        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#StoneGiant -->
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#StoneGiant">
@@ -10769,14 +10777,6 @@
 
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#StormGiant">
         <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Giant"/>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Strige -->
-
-    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Strige">
-        <rdfs:subClassOf rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Beast"/>
     </owl:Class>
     
 
