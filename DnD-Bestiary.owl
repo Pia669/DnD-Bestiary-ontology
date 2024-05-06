@@ -1391,7 +1391,24 @@
 
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Alignment -->
 
-    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulEvil"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulGood"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulNeutral"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Neutral"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood"/>
+                    <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
     
 
 
@@ -28813,6 +28830,97 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#LawfulEvil -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulEvil">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#LawfulGood -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulGood">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#LawfulNeutral -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulNeutral">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Neutral -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Neutral">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned">
+        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // General axioms
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -28843,6 +28951,21 @@
             <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Small"/>
             <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Tiny"/>
         </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulEvil"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulGood"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulNeutral"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Neutral"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned"/>
+        </owl:distinctMembers>
     </rdf:Description>
 </rdf:RDF>
 
