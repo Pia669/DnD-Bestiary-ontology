@@ -26,6 +26,7 @@
     <!-- https://github.com/Pia669/DnD-Bestiary-ontology#hasAlignment -->
 
     <owl:ObjectProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasAlignment">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
         <rdfs:domain rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
         <rdfs:range rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
     </owl:ObjectProperty>
@@ -36,6 +37,7 @@
 
     <owl:ObjectProperty rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasSize">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
         <rdfs:domain rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Creature"/>
         <rdfs:range rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Size"/>
     </owl:ObjectProperty>
@@ -1394,7 +1396,7 @@
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment">
         <owl:equivalentClass>
             <owl:Class>
-                <owl:oneOf rdf:parseType="Collection">
+                <owl:unionOf rdf:parseType="Collection">
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral"/>
@@ -1405,7 +1407,7 @@
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned"/>
-                </owl:oneOf>
+                </owl:unionOf>
             </owl:Class>
         </owl:equivalentClass>
     </owl:Class>
@@ -9267,7 +9269,7 @@
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Environment">
         <owl:equivalentClass>
             <owl:Class>
-                <owl:oneOf rdf:parseType="Collection">
+                <owl:unionOf rdf:parseType="Collection">
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Arctic"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Coastal"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Desert"/>
@@ -9279,7 +9281,7 @@
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underdark"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underwater"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Urban"/>
-                </owl:oneOf>
+                </owl:unionOf>
             </owl:Class>
         </owl:equivalentClass>
     </owl:Class>
@@ -22903,14 +22905,14 @@
     <owl:Class rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Size">
         <owl:equivalentClass>
             <owl:Class>
-                <owl:oneOf rdf:parseType="Collection">
+                <owl:unionOf rdf:parseType="Collection">
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Gargantuan"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Huge"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Large"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Medium"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Small"/>
                     <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Tiny"/>
-                </owl:oneOf>
+                </owl:unionOf>
             </owl:Class>
         </owl:equivalentClass>
     </owl:Class>
@@ -28861,233 +28863,6 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
-    // Individuals
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Arctic -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Arctic">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Coastal -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Coastal">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Desert -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Desert">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Forest -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Forest">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Gargantuan -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Gargantuan">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Size"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Grassland -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Grassland">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Hill -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Hill">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Huge -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Huge">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Size"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Large -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Large">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Size"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#LawfulEvil -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulEvil">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#LawfulGood -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulGood">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#LawfulNeutral -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulNeutral">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Medium -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Medium">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Size"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Mountain -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Mountain">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Neutral -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Neutral">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Small -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Small">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Size"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Swamp -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Swamp">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Tiny -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Tiny">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Size"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Alignment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Underdark -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underdark">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Underwater -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underwater">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- https://github.com/Pia669/DnD-Bestiary-ontology#Urban -->
-
-    <owl:NamedIndividual rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Urban">
-        <rdf:type rdf:resource="https://github.com/Pia669/DnD-Bestiary-ontology#Environment"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
     // General axioms
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -29124,6 +28899,22 @@
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Arctic"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Coastal"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Desert"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Forest"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Grassland"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Hill"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Mountain"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Swamp"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underdark"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underwater"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Urban"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
             <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil"/>
             <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood"/>
             <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral"/>
@@ -29148,46 +28939,12 @@
         </owl:members>
     </rdf:Description>
     <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
-        <owl:distinctMembers rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Arctic"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Coastal"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Desert"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Forest"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Grassland"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Hill"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Mountain"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Swamp"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underdark"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Underwater"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Urban"/>
-        </owl:distinctMembers>
-    </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
-        <owl:distinctMembers rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticEvil"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticGood"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#ChaoticNeutral"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulEvil"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulGood"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#LawfulNeutral"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Neutral"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralEvil"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#NeutralGood"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Unaligned"/>
-        </owl:distinctMembers>
-    </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
-        <owl:distinctMembers rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Gargantuan"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Huge"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Large"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Medium"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Small"/>
-            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#Tiny"/>
-        </owl:distinctMembers>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointProperties"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasAlignment"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#hasSize"/>
+            <rdf:Description rdf:about="https://github.com/Pia669/DnD-Bestiary-ontology#livesIn"/>
+        </owl:members>
     </rdf:Description>
 </rdf:RDF>
 
