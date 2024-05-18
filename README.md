@@ -16,12 +16,14 @@ Explain what data is in the ontology, the source, and what it can be /potentiona
 - with integers as values, defined by data properties
 
 ## Contributors
-- @Pia669
+- [@Pia669](https://github.com/Pia669)
   - Dragon, Elemental, Fey, Fiend and Giant - subclasses and their properties
   - Implemented with Gabriel Shapechangers and Humanoids
-- @Louksi
+- [@Louksi](https://github.com/Louksi)
   - Humanoid, Monstrosity, Ooze, Plant and Undead - subclasses and their properties
   - Implemented with Filip Shapechanger and Humanoid subclasses
-- @frantiiisek
+- [@frantiiisek](https://github.com/frantiiisek)
   - Abberation, Beast, Celestial and Construct - subclasses and their properties
   - Documentation
+
+If you want to contribute, you can create an issue or a pull request
