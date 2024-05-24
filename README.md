@@ -7,9 +7,9 @@ Our ontology contains basic information about beasts in the DnD setting. We buil
 We used stats available for monsters from Basic Rules listed on [Monsters for D&D 5e - DnD Beyond](https://www.dndbeyond.com/monsters?filter-type=0&filter-search=&filter-cr-min=&filter-cr-max=&filter-armor-class-min=&filter-armor-class-max=&filter-average-hp-min=&filter-average-hp-max=&filter-is-legendary=&filter-is-mythic=&filter-has-lair=&filter-source=1&filter-partnered-content=f).
 
 ## Class description
-Our ontology contains 5 top-level classes, 3 object properties and 13 data properties. Diagram below shows the basic schema of our ontology with an example for DragonTurtle. Complete schema is available [here](diagramme-p1.jpg)
+Our ontology contains 5 top-level classes, 3 object properties and 13 data properties. Diagram below shows the basic schema of our ontology with an example for DragonTurtle. Complete schema is available [here](diagramme-Page-1.jpg)
 
-![Diagram of ontology with an example for DragonTurtle](diagramme-p2.jpg)
+![Diagram of ontology with an example for DragonTurtle](diagramme-Page-2.jpg)
 
 ### Class Creature
 Class Creature is the base class, containing subclasses for monster types. The monsters themselves are under the respective types. For example, monster DragonTurtle is of type Dragon, which is Creature.
