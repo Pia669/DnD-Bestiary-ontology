@@ -15,7 +15,7 @@ Our ontology contains 5 top-level classes, 3 object properties and 13 data prope
 Class Creature is the base class, containing subclasses for monster types. The monsters themselves are under the respective types. For example, monster DragonTurtle is of type Dragon, which is Creature.
 
 ### Classes Alignment, Size & Environment
-These classes are located on the same level as class Creature. We have defined relationships as triples `(Creature hasAlignment Alignment)`, `(Creature hasSize Size)`, and `(Creature livesIn Environment)`. For our example of DragonTurtle, We have following information: DragonTurtle has neutral alignment, is of size Gargantuan and lives in either Coastal or Underwater.
+These classes are located on the same level as class Creature. We have defined relationships as triples `(Creature hasAlignment Alignment)`, `(Creature hasSize Size)`, `(Creature livesIn Environment)` and `(Humanoid hasClass DnDClass)`. For our example of DragonTurtle, We have following information: DragonTurtle has neutral alignment, is of size Gargantuan and lives in either Coastal or Underwater.
 
 ### Data properties Speed, Stats, HP & Armor
 Each monster has basic statistics, like speed (eg walking, swimming), stats (eg Char, Int), hitpoints and armor class. These are defined as data properties - they hold integer values rather than being a subclass. For our DragonTurtle, here's an example of the data we know: 341HP, Strength 25, swim speed 40ft. 
